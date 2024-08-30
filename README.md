@@ -7,6 +7,10 @@ Feel free to check out my project and I am inviting you to look into my other pr
 
 https://icodethis.com/Aszlaczek
 
+You can also donate me here 👇
+
+https://ko-fi.com/aszlaczek
+
 Have a nice day 😉
 
 <!---
