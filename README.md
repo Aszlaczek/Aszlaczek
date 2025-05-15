@@ -1,17 +1,55 @@
-Hi there!
-Nice to see you in my profile 😁
-I'm a front-end developer passionate about creating a nice-looking website and other applications.
-I am trying my best in HTML, CSS, JS, TS, React.js, Vue and Next.js.
-I feel incredibly motivated about making something that someone else will use.
-Feel free to check out my project and I am inviting you to look into my other project in the link below 👇
+<!--
+  █████╗ ███████╗ ██████╗ ██╗     ██╗      █████╗  ██████╗██╗  ██╗
+ ██╔══██╗██╔════╝██╔═══██╗██║     ██║     ██╔══██╗██╔════╝██║ ██╔╝
+ ███████║█████╗  ██║   ██║██║     ██║     ███████║██║     █████╔╝ 
+ ██╔══██║██╔══╝  ██║   ██║██║     ██║     ██╔══██║██║     ██╔═██╗ 
+ ██║  ██║███████╗╚██████╔╝███████╗███████╗██║  ██║╚██████╗██║  ██╗
+ ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+  
+  Welcome to my GitHub universe!
+-->
 
-https://icodethis.com/Aszlaczek
+# 👋 Hi, I’m Adrian “Aszlaczek”  
 
-Here is my webiste hosted by github 👇
+## 🚀 About Me  
+- **Full‑Stack Developer & Karate Kyokushin Trainer**  
+- Expertise in **JavaScript**, **TypeScript**, **React**, **Next.js**, **NestJS**, **Express**, and **Python**  
+- Passionate about writing **clean**, **maintainable**, and **high‑performance** code  
+- Advocate for **pixel‑perfect** UI/UX prototypes, crafted in **Figma**  
+- Always learning, always iterating—my motto: “Quality over quantity.”  
 
-https://aszlaczek.github.io/Portfolio/
+## 📦 What I Do  
+1. **Develop Robust Applications**  
+   - Architect scalable back‑ends with NestJS & Express  
+   - Build dynamic front‑ends with React & Next.js  
+   - Integrate RESTful & GraphQL APIs with strong typing (TypeScript)  
+2. **Visualize & Prototype**  
+   - Rapid wireframes to high‑fidelity mockups in Figma  
+   - Interactive prototypes for user testing & stakeholder demos  
+   - Consistent design systems and component libraries  
+3. **Optimize & Test**  
+   - Unit & integration testing (Jest, React Testing Library)  
+   - CI/CD pipelines to ensure code quality and rapid delivery  
+   - Performance audits and continuous optimization  
 
-Have a nice day 😉
+## 🌟 Highlights & Badges  
+![GitHub stars](https://img.shields.io/github/stars/Aszlaczek?style=flat)  
+![GitHub forks](https://img.shields.io/github/forks/Aszlaczek?style=flat)  
+![Made with React](https://img.shields.io/badge/made%20with-React-blue)  
+![Figma](https://img.shields.io/badge/design-Figma-pink)  
+
+
+## 📫 Get In Touch  
+- ✉️ Email: adrian@example.com  
+- 💼 LinkedIn: [linkedin.com/in/aszlaczek]([https://linkedin.com/in/aszlaczek](https://www.linkedin.com/in/adrian-wzorek-902572309/))  
+- 🏆 Instagram: [@aszlaczek](https://instagram.com/aszlaczek)  
+
+---
+
+> “Writing code is one thing. Writing **quality** code—that’s where mastery begins.”  
+
+Feel free to explore my repos, test out the demos, and drop me a message if you’d like to collaborate!
+
 
 <!---
 You can also donate me here 👇
