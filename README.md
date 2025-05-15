@@ -32,16 +32,10 @@
    - CI/CD pipelines to ensure code quality and rapid delivery  
    - Performance audits and continuous optimization  
 
-## 🌟 Highlights & Badges  
-![GitHub stars](https://img.shields.io/github/stars/Aszlaczek?style=flat)  
-![GitHub forks](https://img.shields.io/github/forks/Aszlaczek?style=flat)  
-![Made with React](https://img.shields.io/badge/made%20with-React-blue)  
-![Figma](https://img.shields.io/badge/design-Figma-pink)  
-
 
 ## 📫 Get In Touch  
-- ✉️ Email: adrian@example.com  
-- 💼 LinkedIn: [linkedin.com/in/aszlaczek]([https://linkedin.com/in/aszlaczek](https://www.linkedin.com/in/adrian-wzorek-902572309/))  
+- ✉️ Email: awzorek23@wp.com  
+- 💼 LinkedIn: [@linkedin.com/in/aszlaczek](https://linkedin.com/in/aszlaczek](https://www.linkedin.com/in/adrian-wzorek-902572309/))  
 - 🏆 Instagram: [@aszlaczek](https://instagram.com/aszlaczek)  
 
 ---
