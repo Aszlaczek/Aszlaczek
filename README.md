@@ -35,7 +35,7 @@
 
 ## 📫 Get In Touch  
 - ✉️ Email: awzorek23@wp.com  
-- 💼 LinkedIn: [@linkedin.com/in/aszlaczek](https://linkedin.com/in/aszlaczek](https://www.linkedin.com/in/adrian-wzorek-902572309/))  
+- 💼 LinkedIn: [@linkedin.com/in/adrian-wzorek](https://linkedin.com/in/aszlaczek](https://www.linkedin.com/in/adrian-wzorek-902572309/))  
 - 🏆 Instagram: [@aszlaczek](https://instagram.com/aszlaczek)  
 
 ---
