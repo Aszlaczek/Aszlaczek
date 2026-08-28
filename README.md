@@ -8,41 +8,32 @@
   
   Welcome to my GitHub universe!
 -->
+# 👋 Hi, I'm Adrian
+MSc in Computer Science (University of Warmia and Mazury) and junior full
+stack developer. I build web applications with React/Next.js and Node.js,
+and on the backend I also work with Python. I gained professional experience
+in IT systems administration and process automation in a production
+environment.
 
-# 👋 Hi, I’m Adrian “Szlaczek”  
+## 🧰 What I Use
+- **Languages:** JavaScript, TypeScript, Python, PHP
+- **Frontend:** React, Next.js, HTML/CSS, MUI, Bootstrap
+- **Backend:** Node.js, Django, FastAPI
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **Other:** Git/GitHub, CMS (WordPress, PrestaShop)
 
-## 🚀 About Me  
-- **Full‑Stack Developer & Karate Kyokushin Trainer**  
-- Expertise in **JavaScript**, **TypeScript**, **React**, **Next.js**, **NestJS**, **Express**, and **Python**  
-- Passionate about writing **clean**, **maintainable**, and **high‑performance** code  
-- Advocate for **pixel‑perfect** UI/UX prototypes, crafted in **Figma**  
-- Always learning, always iterating—my motto: “Quality over quantity.”  
+## 🚀 Selected Projects
+- **Memory Game** — a browser-based memory game → [demo](https://memory-game-tan-five.vercel.app) · [code](https://github.com/Aszlaczek/memory-game)
+- **Color Picker / Color Translator** — a tool for checking and converting colors → [demo](https://colorchecker-omega.vercel.app/) · [code](https://github.com/Aszlaczek/ColorChecker)
+- **Time Tracker** — an app for tracking and counting time → [demo](https://counter-psi-blush.vercel.app/) · [code](https://github.com/Aszlaczek/Counter)
+- **AI Dictionary** — an AI-powered search/dictionary tool → [demo](https://dictionary-nu-ten.vercel.app/) · [code](https://github.com/Aszlaczek/Dictionary)
 
-## 📦 What I Do  
-1. **Develop Robust Applications**  
-   - Architect scalable back‑ends with NestJS & Express  
-   - Build dynamic front‑ends with React & Next.js  
-   - Integrate RESTful & GraphQL APIs with strong typing (TypeScript)  
-2. **Visualize & Prototype**  
-   - Rapid wireframes to high‑fidelity mockups in Figma  
-   - Interactive prototypes for user testing & stakeholder demos  
-   - Consistent design systems and component libraries  
-3. **Optimize & Test**  
-   - Unit & integration testing (Jest, React Testing Library)  
-   - CI/CD pipelines to ensure code quality and rapid delivery  
-   - Performance audits and continuous optimization  
+More projects and full portfolio: **[aszlaczek.github.io/Portfolio](https://aszlaczek.github.io/Portfolio/)**
 
-
-## 📫 Get In Touch  
-- ✉️ Email: awzorek23@gmail.com  
-- 💼 LinkedIn: [@linkedin.com/in/adrian-wzorek](https://www.linkedin.com/in/adrian-wzorek-902572309/)  
-
----
-
-> “Writing code is one thing. Writing **quality** code—that’s where mastery begins.”  
-
-Feel free to explore my repos, test out the demos, and drop me a message if you’d like to collaborate!
-
+## 📫 Contact
+- Portfolio: aszlaczek.github.io/Portfolio
+- LinkedIn: [adrian-wzorek](https://www.linkedin.com/in/adrian-wzorek-902572309/)
+- Email: awzorek23@gmail.com
 
 <!---
 You can also donate me here 👇
