@@ -31,7 +31,7 @@ environment.
 More projects and full portfolio: **[aszlaczek.github.io/Portfolio](https://aszlaczek.github.io/Portfolio/)**
 
 ## 📫 Contact
-- Portfolio: aszlaczek.github.io/Portfolio
+- Portfolio: [Website](https://aszlaczek.github.io/Portfolio/index_en.html)
 - LinkedIn: [adrian-wzorek](https://www.linkedin.com/in/adrian-wzorek-902572309/)
 - Email: awzorek23@gmail.com
 
