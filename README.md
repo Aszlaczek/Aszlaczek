@@ -26,7 +26,7 @@ environment.
 - **Memory Game** — a browser-based memory game → [demo](https://memory-game-tan-five.vercel.app) · [code](https://github.com/Aszlaczek/memory-game)
 - **Color Picker / Color Translator** — a tool for checking and converting colors → [demo](https://colorchecker-omega.vercel.app/) · [code](https://github.com/Aszlaczek/ColorChecker)
 - **Time Tracker** — an app for tracking and counting time → [demo](https://counter-psi-blush.vercel.app/) · [code](https://github.com/Aszlaczek/Counter)
-- **AI Dictionary** — an AI-powered search/dictionary tool → [demo](https://dictionary-nu-ten.vercel.app/) · [code](https://github.com/Aszlaczek/Dictionary)
+- **AI Dictionary** — an AI-powered search/dictionary tool → [demo](https://teacherai-mu.vercel.app) · [code](https://github.com/Aszlaczek/Teacher_AI)
 
 More projects and full portfolio: **[aszlaczek.github.io/Portfolio](https://aszlaczek.github.io/Portfolio/)**
 
