@@ -23,10 +23,10 @@ environment.
 - **Other:** Git/GitHub, CMS (WordPress, PrestaShop)
 
 ## 🚀 Selected Projects
-- **Memory Game** — a browser-based memory game → [demo](https://memory-game-tan-five.vercel.app) · [code](https://github.com/Aszlaczek/memory-game)
-- **Color Picker / Color Translator** — a tool for checking and converting colors → [demo](https://colorchecker-omega.vercel.app/) · [code](https://github.com/Aszlaczek/ColorChecker)
 - **Time Tracker** — an app for tracking and counting time → [demo](https://counter-psi-blush.vercel.app/) · [code](https://github.com/Aszlaczek/Counter)
 - **AI Dictionary** — an AI-powered search/dictionary tool → [demo](https://teacherai-mu.vercel.app) · [code](https://github.com/Aszlaczek/Teacher_AI)
+- **Color Picker / Color Translator** — a tool for checking and converting colors → [demo](https://colorchecker-omega.vercel.app/) · [code](https://github.com/Aszlaczek/ColorChecker)
+- **Memory Game** — a browser-based memory game → [demo](https://memory-game-tan-five.vercel.app) · [code](https://github.com/Aszlaczek/memory-game)
 
 More projects and full portfolio: **[aszlaczek.github.io/Portfolio](https://aszlaczek.github.io/Portfolio/)**
 
@@ -34,10 +34,3 @@ More projects and full portfolio: **[aszlaczek.github.io/Portfolio](https://aszl
 - Portfolio: [Website](https://aszlaczek.github.io/Portfolio/index_en.html)
 - LinkedIn: [adrian-wzorek](https://www.linkedin.com/in/adrian-wzorek-902572309/)
 - Email: awzorek23@gmail.com
-
-<!---
-You can also donate me here 👇
-https://ko-fi.com/aszlaczek
-Aszlaczek/Aszlaczek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
